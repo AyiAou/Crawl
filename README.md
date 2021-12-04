@@ -12,3 +12,4 @@ function:
    then input bookId 
    at last u will get the locations,the barcodes and the status of borrowing
 
+All the output u can see in the "data.txt" 
